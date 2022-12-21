@@ -2,7 +2,7 @@
 
 ### 1 - Download snapshot.
 ``` 
-wget https://snapshot.stakepool.dev.br/arechain.tar.gz
+wget https://snapshot.stakepool.dev.br/acred.tar.gz
 ```
 ### 2 - Decompress the snapshot to your database location. You database location will be something to the effect of
 ```
