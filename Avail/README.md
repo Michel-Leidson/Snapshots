@@ -1,7 +1,5 @@
 # Avail-Snapshot-Testnet
 
-Updated daily at 17:00 UTC
-
 ### 1 - Download snapshot.
 ``` 
 wget https://snapshot.stakepool.dev.br/avail.tar.gz
