@@ -2,7 +2,7 @@
 
 ### 1 - Download snapshot.
 ``` 
-wget https://snapshot.stakepool.dev.br/avail.tar.gz
+wget https://snapshot.stakepool.dev.br/avail.tar.zst
 ```
 ### 2 - Decompress the snapshot to your database location. You database location will be something to the effect of
 ```
@@ -10,5 +10,5 @@ wget https://snapshot.stakepool.dev.br/avail.tar.gz
 ```
 ### 3 - Remove downloaded snapshot to free up space.
 ```
-rm -r avail.tar.gz
+rm -r avail.tar.zst
 ```
